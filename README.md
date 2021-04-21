@@ -1,2 +1,1 @@
-# reponame
-repo
+e đg hc về validation js
