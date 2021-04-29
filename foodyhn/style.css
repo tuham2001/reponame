@@ -11,14 +11,13 @@
 li {
     list-style: none;
 }
-a {
-    text-decoration: none;
-    
+.header a {
+    text-decoration: none; 
 }
 header {
     width: 100%;
     height: 100vh;
-    background: url(/img/victoria-shes-4MEL9XS-3JQ-unsplash.jpg);
+    background: url(./img/victoria-shes-4MEL9XS-3JQ-unsplash.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -187,3 +186,15 @@ header input:checked ~ .menu-item {
         opacity: 0.4;
     }
 }
+.acc{
+    text-align: center;
+}
+.video1{
+    text-align: center;
+}
+.huongDan{
+    text-align: center;
+}
+/* .link {
+    text-align: right;
+} */
